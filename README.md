@@ -4,7 +4,7 @@ A deep dive into JavaScript and functional programming techniques, this course i
 
 ## Table of Contents
 
-1. JavaScript: From Fundamentals to Functional JS
+1. [Introduction](src/01.Introduction.md)
    - Course Introduction
    - Success Tips for Learning
    - Functional Programming
