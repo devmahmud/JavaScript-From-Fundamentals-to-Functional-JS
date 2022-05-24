@@ -28,7 +28,6 @@ A deep dive into JavaScript and functional programming techniques, this course i
    - Looping Solution, Part 2
    - Looping Exercise, Part 3
    - Looping Solution, Part 3
-
 4. .forEach() Function
    - Using Functions
    - forEach Function
