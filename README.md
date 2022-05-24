@@ -8,7 +8,7 @@ A deep dive into JavaScript and functional programming techniques, this course i
    - Course Introduction
    - Success Tips for Learning
    - Functional Programming
-2. Objects
+2. [Objects](src/02.Objects-and-arrays.md)
    - Property Access
    - Arrays
    - Bracket Notation
@@ -20,7 +20,7 @@ A deep dive into JavaScript and functional programming techniques, this course i
    - Destructuring Challenge
    - Destructuring Solution
    - Destructuring Examples
-3. List Transformations
+3. [List Transformations](src/03.List-transformations.md)
    - List Transformations
    - Looping Exercise
    - Looping Solution
