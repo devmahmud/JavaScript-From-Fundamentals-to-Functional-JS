@@ -33,7 +33,7 @@ A deep dive into JavaScript and functional programming techniques, this course i
    - forEach Function
    - forEach and _.each Exercises
    - forEach and _.each Solution
-5. .map() Function
+5. [.map() Function](src/05.map-function.md)
    - _.map() vs .map() Functions
    - _.map() Exercise
    - _.map() Solution
