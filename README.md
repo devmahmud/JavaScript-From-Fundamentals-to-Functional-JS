@@ -40,12 +40,12 @@ A deep dive into JavaScript and functional programming techniques, this course i
    - _map() vs ._each()
    - _.map() Exercise, Part 2
    - _.map() Solution, Part 2
-6. .filter() Function
+6. [.filter() Function](src/06.filter-function.md)
    - .filter() Exercise
    - .filter() Solution
    - .filter() Application Exercise
    - .filter() Application Solution
-7. Functions In-Depth
+7. [Functions In-Depth](src/07.functions-in-depth.md)
    - Anatomy of a Function
    - Function Scavenger Exercise
    - Function Scavenger Solution
