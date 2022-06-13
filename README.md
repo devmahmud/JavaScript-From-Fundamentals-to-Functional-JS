@@ -61,7 +61,7 @@ A deep dive into JavaScript and functional programming techniques, this course i
    - Array.from
    - _.from() Exercise
    - _.from() Solution
-8. Scope
+8. [Scope](./src/08.scope.md)
    - Scope Walkthrough Setup
    - Scope Walkthrough, Part 1
    - Scope Walkthrough, Part 2
