@@ -77,7 +77,7 @@ A deep dive into JavaScript and functional programming techniques, this course i
     - _.reduce() Solution
     - Empty Room Exercise
     - Empty Room Solution
-10. Functional Utilities
+10. [Functional Utilities](src/10.functional-utilities.md)
     - Currying
     - Composing
 11. Advanced Scope: Closure
