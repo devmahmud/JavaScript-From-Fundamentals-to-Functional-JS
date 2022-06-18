@@ -67,7 +67,7 @@ A deep dive into JavaScript and functional programming techniques, this course i
    - Scope Walkthrough, Part 2
    - Scope Walkthrough, Part 3
    - Scope Takeaways
-9. Callbacks
+9. [Callbacks](src/09.hof-&-callbacks.md)
     - Higher-Order Functions & Callbacks
     - Passing Arguments
     - Translate into ES6 Exercise
