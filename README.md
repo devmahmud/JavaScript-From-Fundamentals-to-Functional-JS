@@ -80,7 +80,7 @@ A deep dive into JavaScript and functional programming techniques, this course i
 10. [Functional Utilities](src/10.functional-utilities.md)
     - Currying
     - Composing
-11. Advanced Scope: Closure
+11. [Advanced Scope: Closure](src/11.advanced-scope.md)
     - Closure
     - Closure, Part 2
     - Creating Closure
